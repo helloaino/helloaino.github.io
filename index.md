@@ -15,18 +15,23 @@ layout: default
 ## Contact
 
 My email address is of the form firstname.lastname@helsinki.fi. 
+
 My work email is of the form firstname.lastname@hivecorp.fi
 
 ## Courses I've Taken
 
 [Ohjelmointia lingvisteille](https://studies.helsinki.fi/courses/course-unit/otm-211905a1-e420-4ece-b6a5-978b56aa8851/KIK-LG208), fall 2023
+
 [Command-Line Tools for Linguists](https://studies.helsinki.fi/kurssit/opintojakso/otm-92ee484e-456b-409f-a397-d9d2b6e40a2f/KIK-LG221), fall 2025
+
 [Field Methods: Language description and documentation](https://studies.helsinki.fi/kurssit/opintojakso/otm-23a12b38-2c6a-4b80-8fa5-9dab0e566ad6/LDA-L315), fall 2024
+
 [Introduction to Language Technology](https://studies.helsinki.fi/courses/course-unit/otm-96b452f8-1f60-4696-8f0e-50559973b315), fall 2022
 
 ## Projects
 
 [Cmd-line course project](https://helloaino.github.io)
+
 In this project I created a Github site that hosts my CV and personal profile.
 
 ## Misc. 
