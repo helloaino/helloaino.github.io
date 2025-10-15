@@ -4,13 +4,13 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/bzzz.png" alt="Photo" hspace="20" width="30%" align="right"/> My name is Beeatrice Bombus. I work at Hive Corp in the nectar collection department, but I am also a Master's student in the General Linguistics track at the _Linguistic Diversity and Digital Humanities_ program at the University of Helsinki. My main interests are red, purple, and blue flowers and Language Typology. I am also interested in pursuing a minor in _Language Technology._
+<img src="assets/images/bzzz.pnghttps://www.publicdomainpictures.net/pictures/110000/velka/bumble-bee-on-flower-1414773531FiP.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Beeatrice Bombus. I work at Hive Corp in the nectar collection department, but I am also a Master's student in the General Linguistics track at the _Linguistic Diversity and Digital Humanities_ program at the University of Helsinki. My main interests are red, purple, and blue flowers and Language Typology. I am also interested in pursuing a minor in _Language Technology._
 
 ## Find me on
 
-[GitHub](https://github.com/helloaino)
-[Flower](https://duckduckgo.com/?q=bumble+bee+in+flower&iar=images&t=newext&atb=v460-1)
-[Hive](https://duckduckgo.com/?q=bumble+bee+hive&iar=images&t=newext&atb=v460-1)
+[GitHub](https://github.com/helloaino)  
+[Flower](https://duckduckgo.com/?q=bumble+bee+in+flower&iar=images&t=newext&atb=v460-1)  
+[Hive](https://duckduckgo.com/?q=bumble+bee+hive&iar=images&t=newext&atb=v460-1)  
 
 ## Contact
 
@@ -30,8 +30,7 @@ My work email is of the form firstname.lastname@hivecorp.fi
 
 ## Projects
 
-[Cmd-line course project](https://helloaino.github.io)
-
+[Cmd-line course project](https://helloaino.github.io)  
 In this project I created a Github site that hosts my CV and personal profile.
 
 ## Misc. 
