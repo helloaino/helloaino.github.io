@@ -9,8 +9,8 @@ layout: default
 ## Find me on
 
 [GitHub](https://github.com/helloaino)  
-![Flower](https://duckduckgo.com/?q=bumble+bee+in+flower&iar=images&t=newext&atb=v460-1)  
-![Hive](https://duckduckgo.com/?q=bumble+bee+hive&iar=images&t=newext&atb=v460-1)  
+[Flower](https://duckduckgo.com/?q=bumble+bee+in+flower&iar=images&t=newext&atb=v460-1)  
+[Hive](https://duckduckgo.com/?q=bumble+bee+hive&iar=images&t=newext&atb=v460-1)  
 
 ## Contact
 
