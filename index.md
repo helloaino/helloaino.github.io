@@ -38,3 +38,4 @@ My work in the nectar sector and my studies at the University take up most of my
 
 [More information about me](https://en.wikipedia.org/wiki/Bumblebee)
  
+[CV](https://www.overleaf.com/read/bjctmgvvvtwq#04766d)
