@@ -71,7 +71,7 @@ Installing pip:
 `ainojj@laptop1:~$ sudo apt-get install python-pip`
 
 
-Bash script comparative_step4.sh:  
+Bash script comparative_step4.sh that turns a list of adjectives into a list of adjectives in comparative form. If an adjective in it's base form ends in y, the script turns it into i.  
 
 ```
 #!bin/bash
@@ -93,7 +93,7 @@ I can now install programs in command-line, which is great. I don't fully get wh
 
 In module 4 we learned about git, Github, and version control, but first we learned about remote servers, connected to CSC supercomputer Puhti to practice how to connect to a remote server. I made sure I have git installed, I have a repository in Github, and I can add, commit, and push changes to Github.
 
-Commands:  
+Commands to add, commit, and push things into Github:  
 ```
 ainojj@laptop1:~$ git add -A
 ainojj@laptop1:~$ git commit -m "added picture file"
