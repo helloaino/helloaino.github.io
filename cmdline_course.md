@@ -3,6 +3,7 @@ layout: default
 ---
 
 ####Introduction
+![Command-line course on Moodle](https:helloaino.github.com/assets/images/cmdline.png)
 In this course I leared to work in a command-line environment (Ubuntu for Windows in my case) and using tools for text processing, writing bash-scripts and more. The course consisted of four Modules and a Final Project.
 
 ####Module 1: Introduction to Command Line Environments
@@ -10,10 +11,14 @@ In the first module, we installed our command-line environments and took the fir
 
 Basic commands:
 
+This one tells me what my username is:
+
 '''console
 ainojj@laptop1:~$ whoami
 ainojj
 '''
+
+Here I'm creating a directory called KIK-LG221 and then getting a list of files and directories in my home directory.
 
 '''console
 ainojj@laptop1:~$ mkdir KIK-LG221
@@ -34,6 +39,8 @@ ainojj@laptop1:~$ cat life_of_bee.txt | dos2unix | sed 's/^$/#/' | tr '\n' ' ' |
 
 '''
 
+This finds instances of word final "ssa" from the file katinka_rabe.utf8.txt:
+
 '''console
 ainojj@laptop1:~$ cat katinka_rabe.utf8.txt | egrep "ssa\b"
 
@@ -46,6 +53,8 @@ The sed command is still a struggle for me, but overall I think I managed to lea
 In module 3 we learned to write and run bash-scripts and installing software and give commands as the root user using sudo. We also learned to use Python in command-line.
 
 Command used for module 3:
+
+Installing pip:
 
 '''console
 ainojj@laptop1:~$ sudo apt-get install python-pip
