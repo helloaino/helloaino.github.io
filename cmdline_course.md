@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="./assets/images/cmdline.png" alt="Command line course on My Courses page on Moodle" hspace="20" width="50%" align="left"/>
+<img src="./assets/images/cmdline.png" alt="Command line course on My Courses page on Moodle" hspace="20" width="100%" align="left"/>
 
 ## Introduction
 In this course I leared to work in a command-line environment (Ubuntu for Windows in my case) and using tools for text processing, writing bash-scripts and more. The course consisted of four Modules and a Final Project.
@@ -29,6 +29,19 @@ KIK-LG221
 ```
 
 I already tried to complete this course last year, but dropped out. I remembered some of this stuff from last time but feel more comfortable using cmd-line now, and I think the course is organized in a clearer way, so this time around. 
+
+### Table of some basic commands I have fully internalized:
+
+| command | what it do |
+|---------|------------|
+| cd | change directory|
+| mkdir | make directory |
+| mv | moves or renames |
+| ls | list's contents of directory |
+| ls -a | gives the hidden stuff too |
+| rm | removes files |
+| whoami | tells me who I am |
+| touch | creates file |
 
 
 ## Module 2: Text processing in UNIX
@@ -93,5 +106,12 @@ Version control is really important, so I'm glad we learned about that. However,
 ## Final Project
 
 Making this assignment I learned to use Jekyll and Github Pages to a basic degree. I also learned to write Markdown files. It was fun to use Overleaf again, too, but I needed to allow my data to be processed in the USA to be allowed to log in, and it also had it's own generative AI bot function, which I do not want to use. 
+Learning Markdown has been really fun and easy, though.
 
+### Here's a list of things I learned throughout the course that I know a little bit about now but don't grap 100%:
+- syntax of sed
+- gem files
+- operating nano
+- where things go if I install them in Ubuntu
+- Puhti
 
