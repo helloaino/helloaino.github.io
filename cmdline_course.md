@@ -15,18 +15,18 @@ Basic commands:
 
 This one tells me what my username is:
 
-
+```
 ainojj@laptop1:~$ whoami  
 ainojj
-
+```
 
 Here I'm creating a directory called KIK-LG221 and then getting a list of files and directories in my home directory.
 
-
+```
 ainojj@laptop1:~$ mkdir KIK-LG221  
 ainojj@laptop1:~$ ls  
 KIK-LG221  
-
+```
 
 I already tried to complete this course last year, but dropped out. I remembered some of this stuff from last time but feel more comfortable using cmd-line now, and I think the course is organized in a clearer way, so this time around. 
 
@@ -36,11 +36,11 @@ In module 2 we learned about character encodings, file formats, basic text file 
 
 Example commands from module 2:
 
-ainojj@laptop1:~$ cat life_of_bee.txt | dos2unix | sed 's/^$/#/' | tr '\n' ' ' | less
+`ainojj@laptop1:~$ cat life_of_bee.txt | dos2unix | sed 's/^$/#/' | tr '\n' ' ' | less`
 
-This finds instances of word final "ssa" from the file katinka_rabe.utf8.txt:
+`This finds instances of word final "ssa" from the file katinka_rabe.utf8.txt:`
 
-ainojj@laptop1:~$ cat katinka_rabe.utf8.txt | egrep "ssa\b"
+`ainojj@laptop1:~$ cat katinka_rabe.utf8.txt \| egrep "ssa\b"`
 
 
 
@@ -55,11 +55,12 @@ Command used for module 3:
 Installing pip:
 
 
-ainojj@laptop1:~$ sudo apt-get install python-pip
+`ainojj@laptop1:~$ sudo apt-get install python-pip`
 
 
 Bash script comparative_step4.sh:  
 
+```
 #!bin/bash
 
 while IFS= read -r line; do
@@ -70,7 +71,7 @@ else
 fi
 
 done < "$1"
-
+```
 
 I can now install programs in command-line, which is great. I don't fully get what I would need a virtual Python environment in my command-line for, but that is an option now. I'm glad I learned how to make ssh keys.
 
@@ -80,10 +81,11 @@ I can now install programs in command-line, which is great. I don't fully get wh
 In module 4 we learned about git, Github, and version control, but first we learned about remote servers, connected to CSC supercomputer Puhti to practice how to connect to a remote server. I made sure I have git installed, I have a repository in Github, and I can add, commit, and push changes to Github.
 
 Commands:  
+```
 ainojj@laptop1:~$ git add -A
 ainojj@laptop1:~$ git commit -m "added picture file"
 ainojj@laptop1:~$ git push
-
+```
 
 Version control is really important, so I'm glad we learned about that. However, I feel skeptical about using Github since it's owned by Microsoft (I'm still a Windows user, though) and it pushes Copilot on me constantly, which I don't want. I also don't want my data to be used as training material for Copilot.
 
